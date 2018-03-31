@@ -1,0 +1,8 @@
+title: Digital Athenaeus
+description: A digital edition of the Deipnosophists of Athenaeus of Naucratis
+google_analytics: UA-70680383-1
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
