@@ -6,7 +6,7 @@ The _Deipnosophists_ (_Δειπνοσοφισταί_, or _Sophists at Dinner_, i
 
 Project Website: [http://digitalathenaeus.org](http://digitalathenaeus.org)
 
-[GitHub Pages](http://digitalathenaeus.github.io/)
+GitHub Pages: [http://digitalathenaeus.github.io](http://digitalathenaeus.github.io)
 
 #### Digital Athenaeus Repositories
 * [citation-schemes](https://github.com/DigitalAthenaeus/citation-schemes): a concordance between Casaubon and Kaibel citation schemes 
