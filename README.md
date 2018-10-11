@@ -15,7 +15,10 @@ GitHub Pages: [http://digitalathenaeus.github.io](http://digitalathenaeus.github
 * [treebank-data](https://github.com/DigitalAthenaeus/treebank-data): linguistic annotations of the *Deipnosophists*
 
 #### Tools
-* [Casaubon-Kaibel reference converter](http://www.digitalathenaeus.org/)
+* [Casaubon-Kaibel reference converter](http://www.digitalathenaeus.org/tools/Casaubon-Kaibel_converter/)
+* [CTS URN Retriever](http://www.digitalathenaeus.org/tools/KaibelText/cts_urn_retriever.php)
+* [Book Stream](http://www.digitalathenaeus.org/tools/Book-Stream/)
+* [Named Entities Digger](http://www.digitalathenaeus.org/tools/KaibelText/named_entities_digger.php)
 
 #### License
 
