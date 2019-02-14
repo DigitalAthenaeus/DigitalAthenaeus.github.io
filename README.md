@@ -19,6 +19,7 @@ GitHub Pages: [http://digitalathenaeus.github.io](http://digitalathenaeus.github
 * [CTS URN Retriever](http://www.digitalathenaeus.org/tools/KaibelText/cts_urn_retriever.php)
 * [Book Stream](http://www.digitalathenaeus.org/tools/Book-Stream/)
 * [Named Entities Digger](http://www.digitalathenaeus.org/tools/KaibelText/named_entities_digger.php)
+* [Named Entities Concordance](http://www.digitalathenaeus.org/tools/KaibelText/named_entities_concordance.php)
 
 #### License
 
