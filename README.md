@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4626488.svg)](https://doi.org/10.5281/zenodo.4626488)
+
 # Digital Athenaeus
 
 The _Digital Athenaeus_ is a project led by [Monica Berti](http://www.monicaberti.com/) at the Alexander von Humboldt Chair of Digital Humanities at the University of Leipzig for producing a digital edition of the _Deipnosophists_ of Athenaeus of Naucratis.
